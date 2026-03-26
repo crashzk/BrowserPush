@@ -1,0 +1,8 @@
+{
+    "name": "BrowserPush",
+    "version": "1.0.0",
+    "description": "Browser push notifications via Web Push API",
+    "authors": ["Flute"],
+    "providers": ["Flute\\Modules\\BrowserPush\\Providers\\BrowserPushProvider"],
+    "dependencies": {}
+}
